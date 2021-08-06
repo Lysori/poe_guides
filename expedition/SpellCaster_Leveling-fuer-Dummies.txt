@@ -254,7 +254,20 @@ WICHTIG: immer totems casten
 5. Templar Courts und Chamber of Innocence, Boss noch nicht töten, mindestens lvl 46 für life-nodes
 6. Amulett tauschen -> Unique raus, eines mit life stats rein und Diamond Skin annointen (clear oil, sepia oil, teal oil)
 
-=> life sollte um 1.4 k sein
+=> life sollte um 1.5 k sein
+
+Sniper's Mark kaufen (1. Char) und in Socket nach wahl setzen
+
+7. Innocence töten
+
+---------------------------------------------------------------------------------------------
+How-To-Cast Bosse Spezial
+
+Hydrosphere neben boss platzieren, Sniper's Mark auf Boss, Eye of Winter totems gegenüber 
+-> projektile zirkulieren um Hydrosphere alle auf Boss, durch Sniper's Mark mehr damage
+---------------------------------------------------------------------------------------------
+
+
 
 Act 6
 
