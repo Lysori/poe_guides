@@ -1,5 +1,18 @@
 Act 1
 
+-----------------------------------------------------------------------------------------
+Generelle Gear-Empfehlung bei zweitem Char:
+- 1x Tabula
+- 2x Tasalio's Sign Ringe 
+(kosten je 1 C, sind ultra effektiv mit Skitterbots, Herald of Thunder, Orb of Stroms 
+-> damage deluxe): können aber erst ab lvl 20 benutzt werden 
+- Wanderlust Wool Shoes (cannot be frozen)
+- Lifespring Driftwood Wand
+- Karui Ward Jade Amulet, mit Diamond Skin annointen: Clear Oil, Sepia Oil und Teal Oil
+
+=> bisher bis mindestens act 5 durchgehend getragen, ansonsten fokus auf life gear
+-----------------------------------------------------------------------------------------
+
 1. Hillock erledigen, Freezing Pulse, Stormblast Mine und Onslaught bei Nessa kaufen
 2. 3-Link bis lvl 4 (dann sind orb of storms und frostblink verfügbar): - Stormblast Mine - Onslaught - Freezing Pulse
 3. Bis Submerged Passage mit diesem Setup spielen, dann switch auf orb of Storms Setup (ab lvl 4) 
