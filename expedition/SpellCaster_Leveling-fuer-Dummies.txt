@@ -1,51 +1,67 @@
 Act 1
-Setup mit Tabula
 
-Gem-Setup
-3 Link bis lvl 4 (orb of storms und frostblink verfügbar)
-Stormblast Mine - Onslaught - Freezing Pulse
+1. Hillock erledigen, Freezing Pulse, Stormblast Mine und Onslaught bei Nessa kaufen
+2. 3-Link bis lvl 4 (dann sind orb of storms und frostblink verfügbar): - Stormblast Mine - Onslaught - Freezing Pulse
+3. Bis Submerged Passage mit diesem Setup spielen, dann switch auf orb of Storms Setup (ab lvl 4) 
+Freezing Pulse durch Orb of storms ersetzen und Frostblink mit Arcane Surge verlinken
 
-ab lvl 4 oder nach Submerged passage
-Freezing Pulse durch Orb of storms ersetzen
-Frostblink kaufen
+*****************************************************************************************
+Gem-Setup mit Tabula
+*****************************************************************************************
+- Stormblast Mine - Onslaught - Orb of Storms - Frostblink - Arcane Surge
 
-Stormblast Mine - Onslaught - Orb of Storms - Frostblink - Arcane Surge
+Frostblink - Arcane Surge geht auch extra
 
-Frostblink geht auch extra
-
+*****************************************************************************************
 Setup ohne tabula
+*****************************************************************************************
+3-Link ab lvl 4: Stormblast Mine - Onslaught - Orb of Storms
+2-Link: Frostblink - Arcane Surge
+*****************************************************************************************
 
-3 Link bis lvl 4
-Stormblast Mine - Onslaught - Freezing Pulse
+4. Bis zum lower prison waypoint spielen, dann zurück bei Nessa Gem-Setup erweitern:
 
-ab lvl 4
-Stormblast Mine - Onslaught - Orb of Storms
+*****************************************************************************************
+Gem-Setup mit Tabula
+*****************************************************************************************
+4-Link: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
 
-2 Link
-Frostblink - Arcane Surge
+ODER (wenn als zweiter char)
+5-Link: Stormblat Mine - Onslaught - Orb of Storms - Added Lightning Damage - Swift Assembly Support
 
-sobald lower prison waypoint erreicht ist
+*****************************************************************************************
+Setup ohne tabula
+*****************************************************************************************
+4-Link: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
+*****************************************************************************************
 
-wenn möglich
+1-Socket: Decoy Totem
+2-Link: Frostblink - Arcane Surge
 
-4 Link Stormblat Mine - Onslaught - Orb of Storms - Added Lighning Damage support
+Gems zum Leveln in Sockets nach wahl einsetzen: 
+- spell totem support
+- added lighning damage support
 
-5 Link mit Tabula:
-Stormblat Mine - Onslaught - Orb of Storms - Added Lightning Damage - Swift Assembly Support
+---------------------------------------------------------------------------------------------
+so wird gecastet:
+erstens: decoy totem - lenkt gegner ab, sehr nützlich bei Brutus, dann orb of storms, 
+dann stormblast mines, dann wieder von vorne
+---------------------------------------------------------------------------------------------
 
-1 Link Decoy Totem
+5. Lower Prison, Upper Prison und Brutus töten, danach switch Frostblink gegen Flamedash
+Clarity und Vitality benutzen, Sockets egal
 
-leveling gems: (egal wo)
-spell totem support
-added lighning damage support
+6. Shipyard, Cavern of Wrath & Anger: Merveil töten
 
-Nach Brutus:
-Flame Dash, Vitality und Clarity kaufen
+Folgendes Gem-Setup bis kurz vor Vaal Oversoul beibehalten:
 
-Frostblink durch Flame Dash ersetzen
-Clarity und Vitality benutzen
+5-Link: Stormblast Mine - Onslaught - Orb of Storms - Added Lightning Damage - Swift Assembly Support
+ODER als 4-Link ohne Tabula: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
 
-Merveil töten
+1-Socket: Decoy Totem
+2-Link: Flame Dash - Arcane Surge
+1-Socket: Clarity
+1-Socket: Vitality
 
 Act 2
 
@@ -58,7 +74,7 @@ Act 2
 7. Riverways -> Wetlands
 8. Wetlands -> kill Bandit
 9. The western Forest -> Aliira helfen, Blackguards töten, Skillpoint holen
-10. wenn 2. char: summon skitterbots holen
+10. wenn  char: summon skitterbots holen
 11. Wever töten
 12. Faster Casting Support und Elemental Focus Support kaufen
 
@@ -118,7 +134,7 @@ Act 5
 
 Act 6
 
-Act 7 
+Act 7
 
 Act 8
 
