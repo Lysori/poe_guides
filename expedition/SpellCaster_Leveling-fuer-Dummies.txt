@@ -190,6 +190,7 @@ Act 4
 ---------------------------------------------------------------------------------------------
 Generell:
 Unique Gear Items beibehalten, beim Rest Fokus auf life und resis gecapt
+Flask Setup so belassen 
 ---------------------------------------------------------------------------------------------
 
 1. Dried lake - Voll töten, Banner nehmen
