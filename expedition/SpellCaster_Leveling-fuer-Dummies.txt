@@ -163,6 +163,10 @@ ohne Tabula: 4-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Castin
 
 ---------------------------------------------------------------------------------------------
 so wird gecastet:
+normale mobs: gemütlich durch laufen und einfach orb of storms casten - mit herald of thunder
+werden gegner fix pulverisiert, ist auch keine eile geboten, build ist tanky genug
+
+bosse und manche rare monster
 erstens: decoy totem oder Conductivity - dann orb of storms, 
 dann stormblast mines, dann wieder von vorne
 ---------------------------------------------------------------------------------------------
