@@ -105,8 +105,14 @@ Act 4
 1. Dried lake - Voll töten, Banner nehmen
 2. Mines und Crystal veins, waypoint holen, Deshret befreien, highgate -> skillpoint
 3. Normal Lab
-4. Gear Check: life und Resis
-5. Daressos Dream
+4. Gear Check: life und Resis -> life sollte ca. 800 sein
+5. Daressos Dream, aber nur waypoint holen
+6. Kaoms Dream -> Kaom töten
+7. Daresso töten
+8. Belly of the Beast -> piety töten, dann harvest bosse, dann malachai
+
+Sobald lvl 38
+
 
 Act 5
 
