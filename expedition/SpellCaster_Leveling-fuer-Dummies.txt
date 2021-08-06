@@ -77,6 +77,12 @@ ODER als 4-Link ohne Tabula: Stormblast Mine - Onslaught - Orb of Storms - Added
 1-Socket: Vitality
 
 Act 2
+-----------------------------------------------------------------------------------------
+Generell:
+Bandits Quest: Help Aliira
+auf Resis achten: Lightning wichtig bei Vaal Oversoul
+Kurz vor vaal Oversoul aenderungen im Gem-Setup
+-----------------------------------------------------------------------------------------
 
 1. Old Fields
 2. Cross Roads
@@ -87,47 +93,65 @@ Act 2
 7. Riverways -> Wetlands
 8. Wetlands -> kill Bandit
 9. The western Forest -> Aliira helfen, Blackguards töten, Skillpoint holen
-10. wenn  char: summon skitterbots holen
-11. Wever töten
-12. Faster Casting Support und Elemental Focus Support kaufen
+10. Wever töten
+11. Zurück ins Encampment, Gem-Setup umbauen
 
-Vor Vaal Oversoul:
-mit Tabula
-5 Link aus Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support - Added Lightning Damage support
-3 Link mit Stormblast Mine - Swift Assembly Support - added Lightning Damage Support
-1 S Decoy Totem
-1 S Clarity
-1 S Vitality
-2 Link Flame Dash - Arcane Surge
-1 S Summon Skitterbots (wenn 2. char)
+So sollte das vor Vaal Oversoul aussehen:
 
-ohne Tabula
-4 Link aus Orb of Storms - Onslaught - Elemental Focus - Added Lightning Damage support
-3 Link mit Stormblast Mine - Swift Assembly Support - added Lightning Damage Support
-1 S Decoy Totem
-1 S Clarity
-1 S Vitality
-2 Link Flame Dash - Arcane Surge
-1 S Summon Skitterbots (wenn 2. char)
+WICHTIG: jetzt Tasalios Ringe (2x) benutzen um die maximale Damage rauszuholen
 
-wenn 2. Tasalios sign Ringe:
-herald of thunder - extra damage
+mit Tabula: 5-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support - Added Lightning Damage support
+ohne Tabula: 4-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support
 
-Vaal Oversoul töten
+3-Link: Stormblast Mine - Swift Assembly Support - added Lightning Damage Support
+1-Socket: Decoy Totem
+1-Socket: Herald of Thunder
+2-Link Flame Dash - Arcane Surge
+1-Socket: Clarity oder Vitaly (je nach dem was besser taugt)
+1-Socket: Support Spell Totem Support (wird später mit Conductivity verlinkt; hier erst mal nur leveln)
+
+wenn ein zweit Char, Skitterbots mit erstem char kaufen und in einen Socket setzen, als Aura laufen lassen
+1-Socket: Summon Skitterbots, hier muss dann aber Clarity / Vitality gedroppt werden
+
+12. Vaal Oversoul töten und dann nach Sarn
 
 Act 3
+-----------------------------------------------------------------------------------------
+Generell:
+Gem-Setup und Gear-Setup bleibt im wesentlichen (gegebenenfalls auf Resi-Cap schauen, 
+craften, Unique gear items bleiben)
+Conductivity kommt hinzu
+-----------------------------------------------------------------------------------------
 
 1. Clarissa retten
 2. ins Crematorium gehen, Piety ärgern, Tolmans überreste mitnehmen
-3. nach Sarn, Conductivity kaufen, Schlüssel von Clarissa holen
-4. Sewers - Marketplace - Battlefront - Docks
-5. Skillpoint holen
+3. nach Sarn, Conductivity kaufen und verlinken mit Spell Totem Support, Schlüssel von Clarissa holen
+4. Sewers - Marketplace - Battlefront - Docks: Zeug für Dialla holen
+5. Skillpoint in Sarn holen
 6. Battlefront - Solaris Temple
 7. Sewers - Ebony Baracks
 8. Lunaris Temple - piety töten
 9. Skillpoint abholen
-9. Imperial Gardens - Spectre of God - Dominus töten
-10. Eye of winter in sarn kaufen
+
+Gem-Setup sollte so aussehen:
+mit Tabula: 5-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support - Added Lightning Damage support
+ohne Tabula: 4-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support
+
+3-Link: Stormblast Mine - Swift Assembly Support - added Lightning Damage Support
+1-Socket: Decoy Totem
+1-Socket: Herald of Thunder
+2-Link Flame Dash - Arcane Surge
+1-Socket: Summon Skitterbots
+2-Link: Support Spell Totem Support - Conductivity
+
+---------------------------------------------------------------------------------------------
+so wird gecastet:
+erstens: decoy totem oder Conductivity - dann orb of storms, 
+dann stormblast mines, dann wieder von vorne
+---------------------------------------------------------------------------------------------
+
+10. Imperial Gardens - Spectre of God - Dominus töten, optional: Library und Siosa für gems
+11. Eye of winter in sarn kaufen und in einen Socket nach wahl zum leveln setzen
 
 Act 4
 
@@ -140,7 +164,9 @@ Act 4
 7. Daresso töten
 8. Belly of the Beast -> piety töten, dann harvest bosse, dann malachai
 
-Sobald lvl 38
+Sobald lvl 38: Switch Gem-Setup
+
+... work in progress ...
 
 
 Act 5
