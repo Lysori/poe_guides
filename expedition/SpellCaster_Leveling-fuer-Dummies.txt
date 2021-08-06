@@ -174,6 +174,17 @@ dann stormblast mines, dann wieder von vorne
 10. Imperial Gardens - Spectre of God - Dominus töten, optional: Library und Siosa für gems
 11. Eye of winter in sarn kaufen und in einen Socket nach wahl zum leveln setzen
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flasks
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Bubbling life flask of Iron Skin
+Mana Flask of Staunching
+Panicked Life Flask of Staunching
+
+Granite Flask of Adrenaline - Enchantet mit Instilling orb -> Used when you Hit a Rare or Unique Enemy, If not already in effekt
+Quicksilver Flask of Adrenaline - Enchantet mit Instilling orb -> Used when Charges reach full
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Act 4
 
 ---------------------------------------------------------------------------------------------
