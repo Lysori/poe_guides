@@ -190,14 +190,44 @@ Unique Gear Items beibehalten, beim Rest Fokus auf life und resis gecapt
 7. Daresso töten
 8. Belly of the Beast -> piety töten, dann harvest bosse, dann malachai
 9. Belohnung bei Dialla in Highgate abholen: Chain Support
+10. The Ascent und rein in Act 5
 
+---------------------------------------------------------------------------------------------
 Sobald lvl 38: Switch Gem-Setup (im Idealfall sollte das vor Malachai passieren, 
 geht aber auch ohne - WICHTIG: Doedre und Piety tricky hier aufpassen)
-
-... work in progress ...
-
+ich habe das Gem-Setup in Act 4 komplett analog zu Act 3 beibehalten, 
+Harvest und Malachai ohne probleme machbar
+---------------------------------------------------------------------------------------------
 
 Act 5
+
+---------------------------------------------------------------------------------------------
+Generell:
+Gem-Setup switch, ab lvl 38
+---------------------------------------------------------------------------------------------
+
+1. The Slave pens und rückkehr nach Oriath
+
+*********************************************************************************************
+Ab hier wirds dann Build Spezifisch: hier der Umbau auf Totems
+*********************************************************************************************
+
+... Work in progress ...
+
+Gem-Setup Umbau: passive Ancestral Bond nehmen (d.h. nur noch totem damage möglich)
+folgende Gems mit erstem Char kaufen: 2x Increased Critical Strikes Suppoert und 1x Increased Critical Damage Support, Hypothermia
+
+Gems aus Highgate: Multiple Totems Support, Hextouch Support
+Gems aus Sarn: Frostbite
+Gems aus Forest Encampment: Controlled Destruction
+
+4-Link boots: alle blau: Increased Crit Strikes - Orb of Storms - Hextouch support - Frost bite
+4-Link gloves: 2x blau, 1x rot, 1x grün: Steelskin
+6-Link: Eye of winter - Spell Totem Support - Faster Casting Support - Multiple Totems Support - Controlled Destruction - Chain Support
+
+4-Link Helmet: Hydrosphere - Arcane Surge - Flame Dash
+
+... Work in progress ...
 
 Act 6
 
