@@ -73,7 +73,7 @@ Gems zum Leveln in Sockets nach wahl einsetzen:
 - added lighning damage support
 
 ---------------------------------------------------------------------------------------------
-so wird gecastet:
+How-To-Cast:
 erstens: decoy totem - lenkt gegner ab, sehr nützlich bei Brutus, dann orb of storms, 
 dann stormblast mines, dann wieder von vorne
 ---------------------------------------------------------------------------------------------
@@ -86,7 +86,8 @@ Clarity und Vitality benutzen, Sockets egal
 Folgendes Gem-Setup bis kurz vor Vaal Oversoul beibehalten:
 
 5-Link: Stormblast Mine - Onslaught - Orb of Storms - Added Lightning Damage - Swift Assembly Support
-ODER als 4-Link ohne Tabula: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
+ODER:
+als 4-Link ohne Tabula oder falls Swift Assembly nicht verfügbar ist: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
 
 1-Socket: Decoy Totem
 2-Link: Flame Dash - Arcane Surge
@@ -124,11 +125,13 @@ ohne Tabula: 4-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Castin
 1-Socket: Decoy Totem
 1-Socket: Herald of Thunder
 2-Link Flame Dash - Arcane Surge
-1-Socket: Clarity oder Vitaly (je nach dem was besser taugt)
+1-Socket: Clarity oder Vitality (je nach dem was besser taugt)
 1-Socket: Support Spell Totem Support (wird später mit Conductivity verlinkt; hier erst mal nur leveln)
 
 wenn ein zweit Char, Skitterbots mit erstem char kaufen und in einen Socket setzen, als Aura laufen lassen
 1-Socket: Summon Skitterbots, hier muss dann aber Clarity / Vitality gedroppt werden
+
+=> Skitterbots sollte zusammen mit Herald of Thunder, Orb of Storms und den beiden Tasalios Ringen laufen um aus den vollen zu schöpfen
 
 12. Vaal Oversoul töten und dann nach Sarn
 
@@ -162,8 +165,9 @@ ohne Tabula: 4-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Castin
 2-Link: Support Spell Totem Support - Conductivity
 
 ---------------------------------------------------------------------------------------------
-so wird gecastet:
-normale mobs: gemütlich durch laufen und einfach orb of storms casten - mit herald of thunder
+How-To-Cast:
+Auren: Herald of Thunder, Skitterbots (wenn unkomfortabel wegen life / mana: herald droppen stattdessen clarity und/oder vitality)
+normale mobs: gemütlich durch laufen und einfach orb of storms casten
 werden gegner fix pulverisiert, ist auch keine eile geboten, build ist tanky genug
 
 bosse und manche rare monster
