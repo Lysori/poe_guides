@@ -267,9 +267,26 @@ Hydrosphere neben boss platzieren, Sniper's Mark auf Boss, Eye of Winter totems 
 -> projektile zirkulieren um Hydrosphere alle auf Boss, durch Sniper's Mark mehr damage
 ---------------------------------------------------------------------------------------------
 
-
+8. Tourched Courts
+9. Ruined Square -> Waypoint vor Ossuary
+10. Ossuary Sign of Purity holen
+11. Skillpoint abholen
+12. utula töten, weiter zu Reliquary: zeugs von kitava finden
+13. Skillpoint holen
+14. Kitava töten
 
 Act 6
+
+!!Resis cappen!!
+
+Gem-Setup Tabula:
+Eye of winter - Spell Totem Support - Faster Casting Support - Multiple Totems Support - Hypothermia - Chain Support
+
+1. Twilight Strand clearen
+2. Bestel Side quest Tidal Island
+3. Mud Flats -> Karui Fortress
+4. Tukohama töten
+5. The Ridge
 
 Act 7
 
