@@ -7,6 +7,7 @@
 # Der Guide basiert im wesentlichen auf Zizarans                                        #
 # "How I get a Spell Caster to maps IN LESS THAN 4 HOURS! - Play With Me" Guide:        #
 # https://www.youtube.com/watch?v=eZmBionAofA                                           #
+# PoB: https://pastebin.com/zJUG1BEk                                                    #
 #                                                                                       #
 # hier und da wurden sachen abgeändert, so dass es mehr meinem eigenen Spielstil        #  
 # entspricht                                                                            #
