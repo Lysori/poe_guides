@@ -1,3 +1,19 @@
+#########################################################################################
+# In diesem Guide geht es um das leveln für einen Forbidden-Rite                        #
+# Totem Hierophanten als zweiten Char                                                   #
+# Der Guide soll aber auch gültig sein für das leveln von witch builds und anderen      #
+# Spell Castern sowie für ERST-Chars                                                    #
+#                                                                                       #
+# Der Guide basiert im wesentlichen auf Zizarans                                        #
+# "How I get a Spell Caster to maps IN LESS THAN 4 HOURS! - Play With Me" Guide:        #
+# https://www.youtube.com/watch?v=eZmBionAofA                                           #
+#                                                                                       #
+# hier und da wurden sachen abgeändert, so dass es mehr meinem eigenen Spielstil        #  
+# entspricht                                                                            #
+######################################################################################### 
+             
+Start als Templar
+
 Act 1
 
 -----------------------------------------------------------------------------------------
@@ -155,6 +171,11 @@ dann stormblast mines, dann wieder von vorne
 
 Act 4
 
+---------------------------------------------------------------------------------------------
+Generell:
+Unique Gear Items beibehalten, beim Rest Fokus auf life und resis gecapt
+---------------------------------------------------------------------------------------------
+
 1. Dried lake - Voll töten, Banner nehmen
 2. Mines und Crystal veins, waypoint holen, Deshret befreien, highgate -> skillpoint
 3. Normal Lab
@@ -163,8 +184,10 @@ Act 4
 6. Kaoms Dream -> Kaom töten
 7. Daresso töten
 8. Belly of the Beast -> piety töten, dann harvest bosse, dann malachai
+9. Belohnung bei Dialla in Highgate abholen: Chain Support
 
-Sobald lvl 38: Switch Gem-Setup
+Sobald lvl 38: Switch Gem-Setup (im Idealfall sollte das vor Malachai passieren, 
+geht aber auch ohne - WICHTIG: Doedre und Piety tricky hier aufpassen)
 
 ... work in progress ...
 
