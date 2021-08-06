@@ -228,9 +228,8 @@ Gem-Setup switch, ab lvl 38
 Ab hier wirds dann Build Spezifisch: hier der Umbau auf Totems
 *********************************************************************************************
 
-... Work in progress ...
-
-Gem-Setup Umbau: passive Ancestral Bond nehmen (d.h. nur noch totem damage möglich)
+Gem-Setup Umbau: 
+Passive Ancestral Bond nehmen (d.h. nur noch totem damage möglich)
 folgende Gems mit erstem Char kaufen: 2x Increased Critical Strikes Suppoert und 1x Increased Critical Damage Support, Hypothermia
 
 Gems aus Highgate: Multiple Totems Support, Hextouch Support
@@ -238,12 +237,19 @@ Gems aus Sarn: Frostbite
 Gems aus Forest Encampment: Controlled Destruction
 
 4-Link boots: alle blau: Increased Crit Strikes - Orb of Storms - Hextouch support - Frost bite
-4-Link gloves: 2x blau, 1x rot, 1x grün: Steelskin
+4-Link gloves: 2x blau, 1x rot, 1x grün: Steelskin (den auf linke Maustaste legen), Hypothermia und Elemental Focus zum leveln reinsetzen
 6-Link: Eye of winter - Spell Totem Support - Faster Casting Support - Multiple Totems Support - Controlled Destruction - Chain Support
-
+Weapon Sockets: 1x Skitterbots, 1x Clarity
 4-Link Helmet: Hydrosphere - Arcane Surge - Flame Dash
+*********************************************************************************************
 
-... Work in progress ...
+How-To-Cast:
+Auren: Skitterbots und Clarity
+Eye of Winter casten (4x totem) dann Orb of Storms (um Frostbite zu Cursen) dann Hydrosphere, immer im wechsel
+WICHTIG: immer totems casten
+
+2. Controll Blocks und Oriath Square
+3. Templar Courts
 
 Act 6
 
