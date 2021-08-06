@@ -56,7 +56,7 @@ Gem-Setup mit Tabula
 *****************************************************************************************
 4-Link: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
 
-ODER (wenn als zweiter char)
+ODER (wenn als zweiter char): Swift Assembly bekommt man erst später im Game
 5-Link: Stormblat Mine - Onslaught - Orb of Storms - Added Lightning Damage - Swift Assembly Support
 
 *****************************************************************************************
