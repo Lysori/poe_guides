@@ -355,9 +355,44 @@ Act 8
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 LAB-TIME
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-11. Merciless lab -> Ascendency Points
+11. Merciless lab -> Ascendency Points: Conviction of Power
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+12. Lunaris und Solaris erledigen -> weiter zu Act 9
+
+*********************************************************************************************
+Gem-Setup ändern:
+Faster Casting & Hypothermia aus dem 6 Link entfernen und stattdessen 
+Increased Critical Strikes Support und 1x Increased Critical Damage Support einsetzen
+6-Link: Eye of winter - Spell Totem Support - Increased Crit Strikes Support - Increased crit Damage Support - Multiple Totems Support - Chain Support
+*********************************************************************************************
 
 Act 9
 
+1. The Descent
+2. Vastiri Desert -> Mumien töten, Schwert nehmen -> Foothills
+3. Foothills Waypoint -> The boiled Lake und Basilisc acid holen zurück zu foothills, Calendar einsammeln
+4. The Tunnel -> Quarry -> Garukhan erledigen -> waypoint in der Map mitte bei Sin nehmen
+5. The Refinery
+6. Vastiri Desert -> The Oasis und Shakari töten
+7. Skillpoints in Highgate holen -> Quarry Waypoint
+8. The Belly of the Beast
+9. The Rotten Core
+10. Shavronne/Doedre/Maligaro töten
+11. The Depraved Trinity töten und ab nach Oriath
+
 Act 10
+
+1. Cathedral Rooftop und Brannon retten
+2. Oriath Docks -> Cathedral Rooftop -> Ravaged Square
+3. Waypoints holen: Ossuary (direkt vorm eingang), Reliquary und Control Blocks
+4. Weiter zu Tourched Courts 
+5. The Desecrated Chambers und Avarius töten
+6. Ossury, Reliquary und Control Blocks für Side-Quests (Skillpoints)
+7. Ravaged Square -> Canals
+8. The Feeding Through
+9. Kitava töten
+
+Epilog
+
+!!Resis Cappen!!
