@@ -337,12 +337,14 @@ Act 7
 6. Ralakesh im Forest Encampment erledigen -> Skillpoint holen
 7. Northern Forest -> Dread Thicket: Fireflys und Gruthkul töten
 8. Northern Forest -> Causeway -> Vaal City
-9. Skillpoints holen -> Crit Nodes
-
-
-
+9. Skillpoints holen -> Crit Nodes & life nodes
+10 Temple of Decay -> Arakaali erledigen
 
 Act 8
+
+1. The Sarn Ramparts
+2. The Toxic Conduits -> Doedres Cesspool (achtung Chaos DoT)
+3. Doedre töten
 
 Act 9
 
