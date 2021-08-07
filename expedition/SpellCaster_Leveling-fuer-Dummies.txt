@@ -11,9 +11,12 @@
 #                                                                                       #
 # hier und da wurden sachen abgeändert, so dass es mehr meinem eigenen Spielstil        #  
 # entspricht                                                                            #
-######################################################################################### 
+###################0<###################################################################### 
              
 Start als Templar
+
+PoB Lysori Templar build: https://pastebin.com/LdcFiBzN
+=> Notes werden dort noch ergänzt ... Work in Progress ...
 
 Act 1
 
@@ -242,11 +245,12 @@ Gems aus Forest Encampment: Controlled Destruction
 Weapon Sockets: 1x Skitterbots, 1x Clarity
 4-Link Helmet: Hydrosphere - Arcane Surge - Flame Dash
 *********************************************************************************************
-
+---------------------------------------------------------------------------------------------
 How-To-Cast:
 Auren: Skitterbots und Clarity
 Eye of Winter casten (4x totem) dann Orb of Storms (um Frostbite zu Cursen) dann Hydrosphere, immer im wechsel
 WICHTIG: immer totems casten
+---------------------------------------------------------------------------------------------
 
 2. Controll Blocks und Oriath Square
 3. Templar Courts Waypoint holen, dann nach Sarn und Zealotry gem kaufen, in freien slot zum leveln setzen
@@ -254,7 +258,7 @@ WICHTIG: immer totems casten
 5. Templar Courts und Chamber of Innocence, Boss noch nicht töten, mindestens lvl 46 für life-nodes
 6. Amulett tauschen -> Unique raus, eines mit life stats rein und Diamond Skin annointen (clear oil, sepia oil, teal oil)
 
-=> life sollte um 1.5 k sein
+=> life sollte um 1.5 k sein, wenn nicht: fehlende life nodes nehmen - mindestens lvl 46
 
 Sniper's Mark kaufen (1. Char) und in Socket nach wahl setzen
 
@@ -278,15 +282,31 @@ Hydrosphere neben boss platzieren, Sniper's Mark auf Boss, Eye of Winter totems 
 Act 6
 
 !!Resis cappen!!
+life sollte um die 1.6 - 1.8 k liegen
+Mana 0.8 - 0.9 k
 
-Gem-Setup Tabula:
-Eye of winter - Spell Totem Support - Faster Casting Support - Multiple Totems Support - Hypothermia - Chain Support
+*********************************************************************************************
+Gem-Setup sieht nun so aus: 
+*********************************************************************************************
+Auren: Skitterbots & Clarity (hier kann alternativ auch Vitality genommen werden oder weiter mit herald, 
+durch den 6 Link jedoch gibts mana regen schwierigkeiten, daher meine Empfehlung: Clarity!)
+
+6-Link: Eye of winter - Spell Totem Support - Faster Casting Support - Multiple Totems Support - Hypothermia - Chain Support
+4-Link Boots: Increased Crit Strikes - Orb of Storms - Hextouch support - Frost bite
+2-Link Helmet: Arcane Surge - Flame Dash
+1-Socket Helmet: Hydrosphere
+4-Link gloves: Steelskin - Sniper's Mark - Elemental Focus (müssen nicht verlinkt sein 
+=> Steelskin und Sniper's Mark auf tasten legen um sie zu nutzen, Elemental Focus nur zum leveln mitnehmen)
+2-Sockets weapon 1 oder 2: Skitterbots - Clarity (müssen nicht verlinkt sein)
+1-Socket weapon 1 oder 2: Zealotry zum leveln
+*********************************************************************************************
+
 
 1. Twilight Strand clearen
 2. Bestel Side quest Tidal Island
 3. Mud Flats -> Karui Fortress
 4. Tukohama töten
-5. The Ridge
+5. The Ridge, Lower Prison, Shavronnes Tower
 
 Act 7
 
