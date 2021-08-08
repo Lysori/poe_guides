@@ -1,0 +1,399 @@
+#########################################################################################
+# In diesem Guide geht es um das leveln für einen Forbidden-Rite                        #
+# Totem Hierophanten als zweiten Char                                                   #
+# Der Guide soll aber auch gültig sein für das leveln von witch builds und anderen      #
+# Spell Castern sowie für ERST-Chars                                                    #
+#                                                                                       #
+# Der Guide basiert im wesentlichen auf Zizarans                                        #
+# "How I get a Spell Caster to maps IN LESS THAN 4 HOURS! - Play With Me" Guide:        #
+# https://www.youtube.com/watch?v=eZmBionAofA                                           #
+# PoB: https://pastebin.com/zJUG1BEk                                                    #
+#                                                                                       #
+# hier und da wurden sachen abgeändert, so dass es mehr meinem eigenen Spielstil        #  
+# entspricht                                                                            #
+###################0<###################################################################### 
+             
+Start als Templar
+
+PoB Lysori Templar build: https://pastebin.com/y7Jz7WRF
+=> Notes werden dort noch ergänzt ... Work still in Progress ...
+=> Testphase 1
+
+Act 1
+
+-----------------------------------------------------------------------------------------
+Generelle Gear-Empfehlung bei zweitem Char:
+- 1x Tabula
+- 2x Tasalio's Sign Ringe 
+(kosten je 1 C, sind ultra effektiv mit Skitterbots, Herald of Thunder, Orb of Stroms 
+-> damage deluxe): können aber erst ab lvl 20 benutzt werden 
+- Wanderlust Wool Shoes (cannot be frozen)
+- Lifespring Driftwood Wand
+- Karui Ward Jade Amulet, mit Diamond Skin annointen: Clear Oil, Sepia Oil und Teal Oil
+
+=> bisher bis mindestens act 5 durchgehend getragen, ansonsten fokus auf life gear
+-----------------------------------------------------------------------------------------
+
+1. Hillock erledigen, Freezing Pulse, Stormblast Mine und Onslaught bei Nessa kaufen
+2. 3-Link bis lvl 4 (dann sind orb of storms und frostblink verfügbar): - Stormblast Mine - Onslaught - Freezing Pulse
+3. Bis Submerged Passage mit diesem Setup spielen, dann switch auf orb of Storms Setup (ab lvl 4) 
+Freezing Pulse durch Orb of storms ersetzen und Frostblink mit Arcane Surge verlinken
+
+*****************************************************************************************
+Gem-Setup mit Tabula
+*****************************************************************************************
+- Stormblast Mine - Onslaught - Orb of Storms - Frostblink - Arcane Surge
+
+Frostblink - Arcane Surge geht auch extra
+
+*****************************************************************************************
+Setup ohne tabula
+*****************************************************************************************
+3-Link ab lvl 4: Stormblast Mine - Onslaught - Orb of Storms
+2-Link: Frostblink - Arcane Surge
+*****************************************************************************************
+
+4. Bis zum lower prison waypoint spielen, dann zurück bei Nessa Gem-Setup erweitern:
+
+*****************************************************************************************
+Gem-Setup mit Tabula
+*****************************************************************************************
+4-Link: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
+
+ODER (wenn als zweiter char): Swift Assembly bekommt man erst später im Game
+5-Link: Stormblat Mine - Onslaught - Orb of Storms - Added Lightning Damage - Swift Assembly Support
+
+*****************************************************************************************
+Setup ohne tabula
+*****************************************************************************************
+4-Link: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
+*****************************************************************************************
+
+1-Socket: Decoy Totem
+2-Link: Frostblink - Arcane Surge
+
+Gems zum Leveln in Sockets nach wahl einsetzen: 
+- spell totem support
+- added lighning damage support
+
+---------------------------------------------------------------------------------------------
+How-To-Cast:
+erstens: decoy totem - lenkt gegner ab, sehr nützlich bei Brutus, dann orb of storms, 
+dann stormblast mines, dann wieder von vorne
+---------------------------------------------------------------------------------------------
+
+5. Lower Prison, Upper Prison und Brutus töten, danach switch Frostblink gegen Flamedash
+Clarity und Vitality benutzen, Sockets egal
+
+6. Shipyard, Cavern of Wrath & Anger: Merveil töten
+
+Folgendes Gem-Setup bis kurz vor Vaal Oversoul beibehalten:
+
+5-Link: Stormblast Mine - Onslaught - Orb of Storms - Added Lightning Damage - Swift Assembly Support
+ODER:
+als 4-Link ohne Tabula oder falls Swift Assembly nicht verfügbar ist: Stormblast Mine - Onslaught - Orb of Storms - Added Lighning Damage support
+
+1-Socket: Decoy Totem
+2-Link: Flame Dash - Arcane Surge
+1-Socket: Clarity
+1-Socket: Vitality
+
+Act 2
+-----------------------------------------------------------------------------------------
+Generell:
+Bandits Quest: Help Aliira
+auf Resis achten: Lightning wichtig bei Vaal Oversoul
+Kurz vor vaal Oversoul aenderungen im Gem-Setup
+-----------------------------------------------------------------------------------------
+
+1. Old Fields
+2. Cross Roads
+3. Chamber of Sins
+4. Broken Bridge -> kill Bandit
+5. Riverways
+6. The western Forest -> Waypoint
+7. Riverways -> Wetlands
+8. Wetlands -> kill Bandit
+9. The western Forest -> Aliira helfen, Blackguards töten, Skillpoint holen
+10. Wever töten
+11. Zurück ins Encampment, Gem-Setup umbauen
+
+So sollte das vor Vaal Oversoul aussehen:
+
+WICHTIG: jetzt Tasalios Ringe (2x) benutzen um die maximale Damage rauszuholen
+
+mit Tabula: 5-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support - Added Lightning Damage support
+ohne Tabula: 4-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support
+
+3-Link: Stormblast Mine - Swift Assembly Support - added Lightning Damage Support
+1-Socket: Decoy Totem
+1-Socket: Herald of Thunder
+2-Link Flame Dash - Arcane Surge
+1-Socket: Clarity oder Vitality (je nach dem was besser taugt)
+1-Socket: Support Spell Totem Support (wird später mit Conductivity verlinkt; hier erst mal nur leveln)
+
+wenn ein zweit Char, Skitterbots mit erstem char kaufen und in einen Socket setzen, als Aura laufen lassen
+1-Socket: Summon Skitterbots, hier muss dann aber Clarity / Vitality gedroppt werden
+
+=> Skitterbots sollte zusammen mit Herald of Thunder, Orb of Storms und den beiden Tasalios Ringen laufen um aus den vollen zu schöpfen
+
+12. Vaal Oversoul töten und dann nach Sarn
+
+Act 3
+-----------------------------------------------------------------------------------------
+Generell:
+Gem-Setup und Gear-Setup bleibt im wesentlichen (gegebenenfalls auf Resi-Cap schauen, 
+craften, Unique gear items bleiben)
+Conductivity kommt hinzu
+-----------------------------------------------------------------------------------------
+
+1. Clarissa retten
+2. ins Crematorium gehen, Piety ärgern, Tolmans überreste mitnehmen
+3. nach Sarn, Conductivity kaufen und verlinken mit Spell Totem Support, Schlüssel von Clarissa holen
+4. Sewers - Marketplace - Battlefront - Docks: Zeug für Dialla holen
+5. Skillpoint in Sarn holen
+6. Battlefront - Solaris Temple
+7. Sewers - Ebony Baracks
+8. Lunaris Temple - piety töten
+9. Skillpoint abholen
+
+Gem-Setup sollte so aussehen:
+mit Tabula: 5-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support - Added Lightning Damage support
+ohne Tabula: 4-Link: Orb of Storms - Onslaught - Elemental Focus - Faster Casting Support
+
+3-Link: Stormblast Mine - Swift Assembly Support - added Lightning Damage Support
+1-Socket: Decoy Totem
+1-Socket: Herald of Thunder
+2-Link Flame Dash - Arcane Surge
+1-Socket: Summon Skitterbots
+2-Link: Support Spell Totem Support - Conductivity
+
+---------------------------------------------------------------------------------------------
+How-To-Cast:
+Auren: Herald of Thunder, Skitterbots (wenn unkomfortabel wegen life / mana: herald droppen stattdessen clarity und/oder vitality)
+normale mobs: gemütlich durch laufen und einfach orb of storms casten
+werden gegner fix pulverisiert, ist auch keine eile geboten, build ist tanky genug
+
+bosse und manche rare monster
+erstens: decoy totem oder Conductivity - dann orb of storms, 
+dann stormblast mines, dann wieder von vorne
+---------------------------------------------------------------------------------------------
+
+10. Imperial Gardens - Spectre of God - Dominus töten, optional: Library und Siosa für gems
+11. Eye of winter in sarn kaufen und in einen Socket nach wahl zum leveln setzen
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flasks
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Bubbling life flask of Iron Skin
+Mana Flask of Staunching
+Panicked Life Flask of Staunching
+
+Granite Flask of Adrenaline - Enchantet mit Instilling orb -> Used when you Hit a Rare or Unique Enemy, If not already in effekt
+Quicksilver Flask of Adrenaline - Enchantet mit Instilling orb -> Used when Charges reach full
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Act 4
+
+---------------------------------------------------------------------------------------------
+Generell:
+Unique Gear Items beibehalten, beim Rest Fokus auf life und resis gecapt
+Flask Setup so belassen 
+---------------------------------------------------------------------------------------------
+
+1. Dried lake - Voll töten, Banner nehmen
+2. Mines und Crystal veins, waypoint holen, Deshret befreien, highgate -> skillpoint
+3. Normal Lab
+4. Gear Check: life und Resis -> life sollte ca. 800 sein
+5. Daressos Dream, aber nur waypoint holen
+6. Kaoms Dream -> Kaom töten
+7. Daresso töten
+8. Belly of the Beast -> piety töten, dann harvest bosse, dann malachai
+9. Belohnung bei Dialla in Highgate abholen: Chain Support
+10. The Ascent und rein in Act 5
+
+---------------------------------------------------------------------------------------------
+Sobald lvl 38: Switch Gem-Setup (im Idealfall sollte das vor Malachai passieren, 
+geht aber auch ohne - WICHTIG: Doedre und Piety tricky hier aufpassen)
+ich habe das Gem-Setup in Act 4 komplett analog zu Act 3 beibehalten, 
+Harvest und Malachai ohne probleme machbar
+---------------------------------------------------------------------------------------------
+
+Act 5
+
+---------------------------------------------------------------------------------------------
+Generell:
+Gem-Setup switch, ab lvl 38
+---------------------------------------------------------------------------------------------
+
+1. The Slave pens und rückkehr nach Oriath
+
+*********************************************************************************************
+Ab hier wirds dann Build Spezifisch: hier der Umbau auf Totems
+*********************************************************************************************
+
+Gem-Setup Umbau: 
+Passive Ancestral Bond nehmen (d.h. nur noch totem damage möglich)
+folgende Gems mit erstem Char kaufen: 2x Increased Critical Strikes Suppoert und 1x Increased Critical Damage Support, Hypothermia
+
+Gems aus Highgate: Multiple Totems Support, Hextouch Support
+Gems aus Sarn: Frostbite
+Gems aus Forest Encampment: Controlled Destruction
+
+4-Link boots: alle blau: Increased Crit Strikes - Orb of Storms - Hextouch support - Frost bite
+4-Link gloves: 2x blau, 1x rot, 1x grün: Steelskin (den auf linke Maustaste legen), Hypothermia und Elemental Focus zum leveln reinsetzen
+6-Link: Eye of winter - Spell Totem Support - Faster Casting Support - Multiple Totems Support - Controlled Destruction - Chain Support
+Weapon Sockets: 1x Skitterbots, 1x Clarity
+4-Link Helmet: Hydrosphere - Arcane Surge - Flame Dash
+*********************************************************************************************
+---------------------------------------------------------------------------------------------
+How-To-Cast:
+Auren: Skitterbots und Clarity
+Eye of Winter casten (4x totem) dann Orb of Storms (um Frostbite zu Cursen) dann Hydrosphere, immer im wechsel
+WICHTIG: immer totems casten
+---------------------------------------------------------------------------------------------
+
+2. Controll Blocks und Oriath Square
+3. Templar Courts Waypoint holen, dann nach Sarn und Zealotry gem kaufen, in freien slot zum leveln setzen
+4. Skillpoint im Overseers Tower bei Vilenta abholen
+5. Templar Courts und Chamber of Innocence, Boss noch nicht töten, mindestens lvl 46 für life-nodes
+6. Amulett tauschen -> Unique raus, eines mit life stats rein und Diamond Skin annointen (clear oil, sepia oil, teal oil)
+
+=> life sollte um 1.5 k sein, wenn nicht: fehlende life nodes nehmen - mindestens lvl 46
+
+Sniper's Mark kaufen (1. Char) und in Socket nach wahl setzen
+
+7. Innocence töten
+
+---------------------------------------------------------------------------------------------
+How-To-Cast Bosse Spezial
+
+Hydrosphere neben boss platzieren, Sniper's Mark auf Boss, Eye of Winter totems gegenüber 
+-> projektile zirkulieren um Hydrosphere alle auf Boss, durch Sniper's Mark mehr damage
+---------------------------------------------------------------------------------------------
+
+8. Tourched Courts
+9. Ruined Square -> Waypoint vor Ossuary
+10. Ossuary Sign of Purity holen
+11. Skillpoint abholen
+12. utula töten, weiter zu Reliquary: zeugs von kitava finden
+13. Skillpoint holen
+14. Kitava töten
+
+Act 6
+
+!!Resis cappen!!
+life sollte um die 1.6 - 1.8 k liegen
+Mana 0.8 - 0.9 k
+
+*********************************************************************************************
+Gem-Setup sieht nun so aus: 
+*********************************************************************************************
+Auren: Skitterbots & Clarity (hier kann alternativ auch Vitality genommen werden oder weiter mit herald, 
+durch den 6 Link jedoch gibts mana regen schwierigkeiten, daher meine Empfehlung: Clarity!)
+
+6-Link: Eye of winter - Spell Totem Support - Faster Casting Support - Multiple Totems Support - Hypothermia - Chain Support
+4-Link Boots: Increased Crit Strikes - Orb of Storms - Hextouch support - Frost bite
+2-Link Helmet: Arcane Surge - Flame Dash
+1-Socket Helmet: Hydrosphere
+4-Link gloves: Steelskin - Sniper's Mark - Elemental Focus (müssen nicht verlinkt sein 
+=> Steelskin und Sniper's Mark auf tasten legen um sie zu nutzen, Elemental Focus nur zum leveln mitnehmen)
+2-Sockets weapon 1 oder 2: Skitterbots - Clarity (müssen nicht verlinkt sein)
+1-Socket weapon 1 oder 2: Zealotry zum leveln
+*********************************************************************************************
+
+
+1. Twilight Strand clearen
+2. Bestel Side quest Tidal Island
+3. Mud Flats -> Karui Fortress
+4. Tukohama töten
+5. The Ridge, The Prison, Shavronnes Tower
+6. Shavronne & Brutus töten
+7. Prisoners Gate & Abberath töten
+8. The western Forest
+9. Riverways Waypoint, dann Wetlands und Ryslatha töten
+10. Onslaught kaufen für Hydrosphere, Skillpoints abholen
+
+*********************************************************************************************
+2-Link Weapon 1 oder 2: Hydrosphere - Onslaught
+*********************************************************************************************
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LAB-TIME
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+11. Cruel lab -> Ascendency Points: Ritual of Awakening
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+12. Riverways -> The southern Forest
+13. Cavern of Anger
+14. The Beacon
+15. Brine King töten -> weiter zu act 7
+
+Act 7
+
+1. Broken Bridge -> Crossroads
+2. Fellshrine Ruins -> The Crypt -> Maligaros Map holen
+3. Chamber of Sins -> Maligaros Sanctum
+4. Chamber of Sins 2 -> the Den
+5. The Ashen Fields
+6. Ralakesh im Forest Encampment erledigen -> Skillpoint holen
+7. Northern Forest -> Dread Thicket: Fireflys und Gruthkul töten
+8. Northern Forest -> Causeway -> Vaal City
+9. Skillpoints holen -> Crit Nodes & life nodes
+10 Temple of Decay -> Arakaali erledigen
+
+Act 8
+
+1. The Sarn Ramparts
+2. The Toxic Conduits -> Doedres Cesspool (achtung Chaos DoT)
+3. Doedre töten
+4. The Quay -> Ressurection Site -> The Quay -> The Grain Gate
+5. The Imperial Fields
+6. Solaris Concourse
+7. Solaris Temple 1 & 2 -> sun orb holen
+8. Doedres Cesspol -> Grand Promenade -> Bath House -> Lunaris Concourse
+9. Lunaris Temple 1 & 2 -> moon orb holen
+10. Harbor Bridge Farmen bis lvl 63, crit nodes nehmen und Mind over Matter
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LAB-TIME
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+11. Merciless lab -> Ascendency Points: Conviction of Power
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+12. Lunaris und Solaris erledigen -> weiter zu Act 9
+
+*********************************************************************************************
+Gem-Setup ändern:
+Faster Casting & Hypothermia aus dem 6 Link entfernen und stattdessen 
+Increased Critical Strikes Support und 1x Increased Critical Damage Support einsetzen
+6-Link: Eye of winter - Spell Totem Support - Increased Crit Strikes Support - Increased crit Damage Support - Multiple Totems Support - Chain Support
+*********************************************************************************************
+
+Act 9
+
+1. The Descent
+2. Vastiri Desert -> Mumien töten, Schwert nehmen -> Foothills
+3. Foothills Waypoint -> The boiled Lake und Basilisc acid holen zurück zu foothills, Calendar einsammeln
+4. The Tunnel -> Quarry -> Garukhan erledigen -> waypoint in der Map mitte bei Sin nehmen
+5. The Refinery
+6. Vastiri Desert -> The Oasis und Shakari töten
+7. Skillpoints in Highgate holen -> Quarry Waypoint
+8. The Belly of the Beast
+9. The Rotten Core
+10. Shavronne/Doedre/Maligaro töten
+11. The Depraved Trinity töten und ab nach Oriath
+
+Act 10
+
+1. Cathedral Rooftop und Brannon retten
+2. Oriath Docks -> Cathedral Rooftop -> Ravaged Square
+3. Waypoints holen: Ossuary (direkt vorm eingang), Reliquary und Control Blocks
+4. Weiter zu Tourched Courts 
+5. The Desecrated Chambers und Avarius töten
+6. Ossury, Reliquary und Control Blocks für Side-Quests (Skillpoints)
+7. Ravaged Square -> Canals
+8. The Feeding Through
+9. Kitava töten
+
+Epilog
+
+!!Resis Cappen!!
