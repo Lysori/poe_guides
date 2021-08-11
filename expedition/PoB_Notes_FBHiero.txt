@@ -1,0 +1,40 @@
+#########################################################################################
+# PoB Notes fuer Forbidden Rite Hierophant (Lysori), Expedition League, 3.15            #
+######################################################################################### 
+
+PoB Lysori Templar build: 
+
+Anpassungen in Tree & Gem-Setup
+
+- Second Wind Raus, dafuer Presicion Aura rein (bis lvl 5)
+- Wither Setup geaendert: Self-Cast, anstatt via Totem -> auf diese Weise mehr damage, wichtig wenn man aktuell nur 5 Totems casten kann!
+- Aranist Brand Setup geaendert: Nun 3 Link in Weapon 1
+- Shield Charge mit rein genommen, phys damage + movement, wird noch ausgearbeitet
+- Elemental Nodes und Dex Nodes zurück gebaut zugunsten von Defence Nodes -> Elemental Ailment reduction sowie Mana / Mana Regen Node
+
+Gem Links
+
+Helmet:
+Presicion - Phase Run - Arcane Surge - Flame Dash
+
+Weapon 1:
+Arcanist Brand - Void Sphere - Assassins Mark
+
+Weapon 2:
+Blasphemy Support - Despair - Shield Carge
+
+Body Armor:
+Forbidden Rite - Increased Critical Damage Support - Increased Critical Strikes Support - Void Manipulation - Spell Totem Support - Multiple Totems Support
+
+Gloves:
+Wither - Increased Duration - Infused Channeling - Faster Casting Support
+
+Boots:
+Steelskin - CWDT - Immortal Call - Summon Flame Golem
+
+
+To Dos:
+- Shield mit + max summonend Totems 
+- body Armor mit life / mana
+
+weitere Anpassungen Gem-Setup folgen... Work in Progress ...

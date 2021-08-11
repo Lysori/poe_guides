@@ -11,7 +11,7 @@
 #                                                                                       #
 # hier und da wurden sachen abgeändert, so dass es mehr meinem eigenen Spielstil        #  
 # entspricht                                                                            #
-###################0<###################################################################### 
+######################################################################################### 
              
 Start als Templar
 
