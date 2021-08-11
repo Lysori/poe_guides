@@ -2,7 +2,7 @@
 # PoB Notes fuer Forbidden Rite Hierophant (Lysori), Expedition League, 3.15            #
 ######################################################################################### 
 
-PoB Lysori Templar build: 
+PoB Lysori Templar build: https://pastebin.com/uhzXmUnb
 
 Anpassungen in Tree & Gem-Setup
 
