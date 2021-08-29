@@ -1,0 +1,84 @@
+#########################################################################################
+# PoB Notes fuer Forbidden Rite Hierophant (Lysori), Expedition League, 3.15            #
+######################################################################################### 
+
+PoB Lysori Templar build: https://pastebin.com/KupbtdgR
+
+Anpassungen in Tree & Gem-Setup
+
+Um die im folgenden beschriebenen Anpassungen vornehmen zu können sollte entsprechendes Gear genutzt werden
+um eine ausreichend gute Balance zwischen Offensive und Defensive herzustellen. Außerdem werden Cluster Jewels 
+benötigt und ein paar Dexterity nodes (um Greater Volley Support, Precision und Faster Attacks Support auf max lvl zu nutzen)
+
++++++++++++++++++++++++
++  Voraussetzungen    +
++++++++++++++++++++++++
+
+Gear:
+- Viridis Veil Helmet
+- Soul Mantle Spidersilk Robe (5 L ist erst einmal ausreichend)
+- Essence Worm
+- Shield mit +1 to maximum number of summoned totems
+- Torchoak Step Antique Greaves
+- Restliches Gear: life / mana sowie resis, bei der wand auf cast speed, crits, spell damage schauen
+Tipp gloves: am besten Fingerless Silk gloves (die haben direkt spell damage mit dabei)
+
+Jewels:
+- Jewel mit Implicit Mod: "Corrupted Blood cannot be Inflicted on you" 
+(dadurch kann anstelle von Ralakesh auf Shakari als minor god gewechselt werden - hilft bei chaos und poison)
+- Medium Cluster Jewel, 5 nodes mit 12% increased Totem damage + Ancestral Preservation & Ancestral Reach
+- Small Cluster Jewel, 3 nodes mit 4% increased maximum life + Surging Vitality
+
+Nodes im Skill Tree(dafür z.B. sanctum of Thoughts nodes respeccen sowie Arcane Will, siehe Skill Tree) :
+- Presicion
+- Coldhearted Calculation
+- Agility
+- Pain Attunement
+
+*******************
+*  Änderungen     *
+*******************
+
+Pantheon:
+Lunaris & Shakari
+
+Gem-Setup:
+
+5 L Body Armour: Forbidden Rite - Greater Volley - multiple totems - increased crit damage - increased crit strikes
+4 L gloves: Steelskin - Precision - Flame Dash - Arcane Surge (Arcane Surge sollte mit Flame Dash & Steelskin verlinkt sein, Precision kann extra)
+4 L boots: Assassins Mark - Summon Lightning Golem - Clarity - Vitality (müssen nicht verlinkt sein)
+4 L Helmet: Increased Duration - Faster Casting - Infused Channeling - Wither
+3 L Weapon 1: CWDT lvl 5 - Immortal Call lvl 5 - increased Duration
+3 L Shield: Fortify - Shield Charge - Faster Attacks
+1 S Essence Worm: Zealotry
+
+Tastenbelegung Movement Skills:
+Steelskin RMB (hier wird auch immer Arcane surge getriggert); Flame Dash MMB und Shield Charge LMB
+-> im kampf wechsel zwischen Flame Dash und Shield Charge je nachdem was gerade besser taugt
+
+Forbidden Rite Q, Assassins Mark W, Wither E, Golem R, Auren CTRL+
+
+Flasks:
+- Seething Divine life Flask of Staunching
+- Ample Jade Flask of Heat mit instilling orb enchanted "used when become frozen"
+- Silver Flask of Curing 
+- Granite Flask of Dousing
+- Quicksilver Flask of Staunching mit instilling orb enchanted "used when you start bleeding"
+
+Anmerkungen:
+- anstatt lighning golem müsste es auch mit dem Ice Golem funktionieren
+- Clarity & Vitality anstelle von Blasphemy / Despair setup: Regen macht Build stabiler, Damage reicht trotzdem aus
+- Phase Run raus, stattdessen Steelskin auf RMB - ebenfalls für bessere Defensive
+- Lunaris aktuell noch besser als Solaris, gegebenenfalls austauschen
+- keine Mana Flask mehr nötig -> regen völlig ausreichend
+- Unspielbare Maps: Nur mit Mod Cannot regen life / mana / ES
+
+
+
+
+
+
+
+
+ 
+
