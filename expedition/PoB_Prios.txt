@@ -16,9 +16,9 @@ Empfehlung: Resi Tausch Crafts im Harvest Sammeln
   -> Hier dann folgende Nodes Respeccen (Reihenfolge): 
   Light of Divinity, Holy Dominion, Elemental Damage, Arcane Will, Blood Siphon + 2x life nodes in der Ecke, kleine life und Chaos Resi Nodes
 
-##############
-#Gear & Jewel#
-##############
+###############
+#Gear & Jewels#
+###############
 
 1. Fossilised Spirit Shield mit + 1 to max summoned totems (zusammen mit life mods, resi...)
 2. Medium Cluster Jewel mit 12% Increased Totem Damage und 5 Nodes 
@@ -28,9 +28,16 @@ Empfehlung: Resi Tausch Crafts im Harvest Sammeln
    -> MUST HAVE: Surging Vitality
    - Empfehlung: life oder life regen oder mana oder mana regen
    
-die nächsten drei nur zusammen equippen
+die nächsten drei nur zusammen equippen (siehe auch /EndgameGear_Notes_FBHiero)
 4. Viridis Veil Praetor Crown: hier dann Wither Gem Setup reinsetzen 
 5. Spidersilk Robe als 5 Link
 6. Vermillion Ring: MAGIC ITEM!!! mit life und fehlender Resi (Ersetzt Dream Fragments Sapphire Ring)
 
 4./5./6. sorgen für Probleme mit Resi Cap, dies beim Equippen beachten, hier auch beachten, dass durch den Magic Ring im rechten Slot Freeze und Chill immunity entfällt
+
+#################
+#Ring Anointment#
+#################
+
+1. Ring: Teal & Violet Oil -> Scout Towers 25% Range
+2. Ring: Azure & Violet Oil -> Sentinel Towers 25% Range
