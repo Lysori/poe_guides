@@ -9,7 +9,7 @@ Anpassungen in Tree & Gem-Setup
 - Second Wind Raus, dafuer Presicion Aura rein (bis lvl 5)
 - Wither Setup geaendert: Self-Cast, anstatt via Totem -> auf diese Weise mehr damage, wichtig wenn man aktuell nur 5 Totems casten kann!
 - Aranist Brand Setup geaendert: Nun 3 Link in Weapon 1
-- Shield Charge mit rein genommen, phys damage + movement, wird noch ausgearbeitet
+- Shield Charge mit rein genommen, phys damage + movement
 - Elemental Nodes und Dex Nodes zurück gebaut zugunsten von Defence Nodes -> Elemental Ailment reduction sowie Mana / Mana Regen Node
 
 Gem Links
@@ -32,9 +32,6 @@ Wither - Increased Duration - Infused Channeling - Faster Casting Support
 Boots:
 Steelskin - CWDT - Immortal Call - Summon Flame Golem
 
-
-To Dos:
-- Shield mit + max summonend Totems 
+Optional:
+- Shield mit + max summonend Totems (super wichtig um mehr DPS zu bekommen, Fossilised oder Lacewood Spirit Shield, leider teuer) 
 - body Armor mit life / mana
-
-weitere Anpassungen Gem-Setup folgen... Work in Progress ...

@@ -1,0 +1,137 @@
+##############################################
+# Atlas passives in Expedition League, 3.15  #
+##############################################
+
+Anmerkung:
+Die aufgelisteten Atlas passives entsprechen meiner persönlichen Präferenz und müssen daher nicht zwangsläufig auch die lukrativsten sein!
+
+Absteigend sortiert, d.h. 1 am wichtigsten, dann 2 usw...
+
+###################
+# Haewark Hamlet  #
+###################
+
+Master: Egal, alle
+Region für: Essencen & Harvest, evtl. Ritual
+
+Es hat sich gezeigt, dass Essence sehr lukrativ im Trading sind, daher:
+
+1. Controlled Corruption
+2. Amplified
+3. The Grove's Call
+4. Nature's Favour
+5. Wild Fruit
+
+Harvest oder Ritual? Hier bin ich selbst noch am herausfinden was besser ist,
+habe mich erst mal für Harvest entschieden.
+
+###############
+# Lex Ejoris  #
+###############
+
+Master: Egal, alle
+Region für: Perandus Coins & Delirium
+
+1. Pathological
+2. Compulsive Hoarder
+3. Persecutory Delusion
+4. Prospero's Promise
+5. Friend of the Family
+
+#################
+# Lira Arthain  #
+#################
+
+Master: Egal, alle
+Region für: Breach & Blight
+
+Nutze ich hauptsächlich zum farmen von Chayula Splintern, allgemeine Breach farming Zone 
+sowie Blight, vor allem blight maps fürs trading
+
+1. Probing for Weaknesses
+2. Spores on the Wind
+3. Epidemiology
+4. Flash Breach
+5. Immune Response
+
+###############
+# New Vastir  #
+###############
+
+Master: Egal, alle
+Region für: Legion & Abyss, evtl. delve
+
+1. War Supplies
+2. Emblematic
+3. Protracted Battle
+4. Abyssal Army
+5. Votive Hoard
+
+alternative zu Abyss: delve nodes
+
+###############
+# Tirn's End  #
+###############
+
+Master: Egal, alle
+Region für: Delirium
+
+1. Trespassers
+2. Exotic Goods
+3. That which you seek
+4. The singular eternity
+5. Greater Forces
+
+###############
+# Lex Proxima #
+###############
+
+Master: Niko
+Region für: Delve & Breach
+
+1. Rich Veins
+2. Packed with Energy
+3. Sulphite Infusion
+4. Gatekeepers
+5. Within their grasp
+
+alternative zu Breach Nodes: Harvest -> Bonutiful Harvest & Bumper Crop
+
+#################
+# Valdo's Rest  #
+#################
+
+Master: Egal, alle
+Region für: Harbinger & Blight, evtl metamorph
+
+Nutze ich hauptsächlich als Harbinger Farming Zone
+
+1. Ominous Arrival
+2. Diplomatic Escort
+3. Outbreak
+4. Mass Mycelium
+5. Blight Titans
+
+alternative zu blight: metamorph nodes, wird noch getestet was hier besser taugt
+
+####################
+# Glennach Cairns  #
+####################
+
+Master: Alva
+Region für: Incursion & Legion
+
+Nutze ich als Incursion Farming Zone, hier kann der Temple sehr effizient mit tier III Räumen ausgestattet werden
+
+1. Ressource Reallocation
+2. Contested Development
+3. Monumental
+4. Face to Face
+5. High Value Targets
+
+
+#####################
+# Uncharted Realms  #
+#####################
+...
+nach 10er Maven, Work in Progress, ToDo...
