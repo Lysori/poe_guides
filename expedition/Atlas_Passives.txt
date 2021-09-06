@@ -133,5 +133,9 @@ Nutze ich als Incursion Farming Zone, hier kann der Temple sehr effizient mit ti
 #####################
 # Uncharted Realms  #
 #####################
-...
-nach 10er Maven, Work in Progress, ToDo...
+
+1. Adept Tracker -> conqueror process hat 25% chance doppelt zu tracken (The Formed, Shaper guardians)
+2. Remnants of the Past -> erhöht wahrscheinlichkeit das Map Bosse shaper/elder maps droppen (The Twisted, Eleder Guardians)
+3. Atlas Awakened -> AW 9 (The Hidden, Breach Bosse)
+4. Neural Pathways -> Chancen für Synthesis Maps erhöht (The Forgotten, Synthesis Map Bosse)
+5. Thaumaturgical Awakening -> Chance für AW Gems bei Sirus erhöht (The Feared, Cortex Boss, Chayula, Atziri, Shaper, Elder)
