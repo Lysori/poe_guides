@@ -1,0 +1,43 @@
+#########################################################################################
+# PoB Notes fuer Forbidden Rite Hierophant (Lysori), Expedition League, 3.15            #
+######################################################################################### 
+
+In diesem File soll es nur darum gehen noch mehr aus dem Build herauszuholen, vor allem was DPS betrifft (aka viel hilft viel)
+oder man einfach zu viel Currency übrig hat ;)
+
+#Voraussetzungen:
+
+Endgame-Gear (siehe EndgameGear_notes)
+
+Zum funktionieren des Builds sind die folgenden Gear-Upgrade-Empfehlungen aber NICHT zwingend erforderlich, mehr ein Nice-to-have
+
+
+#Günstig (bis 1.5 Ex):
+
+1. Fingerless Silk gloves mit guten mods (base für increased spell damage)
+
+2. Blue Pearl Amulet (base für mana regen) als life / mana gear mit Ironwood Anointment
+
+3. Divergent Presicion (qual 20%) -> bisschen mehr Damage
+
+4. Forbidden Rite als lvl 21, qual 23% gem
+
+5. Viridis Veil mit Enchant: 40% increased damage für Forbidden Rite
+
+
+#teuer (1.5 - 10 Ex):
+
+1. Cowards Legacy Chain Belt -> macht 200 k mehr DPS aus
+entweder kaufen oder per vial of consequence im Tempel im Tier III room of sacrifice auf Cowards Chains Chain Belt
+
+2. Accumulator Wand mit mod +1 to level of all chaos spell skill gems od. +1 to level of all spell skill gems
+
+3. Divergent Wither -> mehr withered stacks auf mobs
+
+
+#sehr teuer / unbezahlbar (>> 10 Ex)
+
+1. Awakened Greater Multiple Projectiles Gem (ersetzt Greater Volley Support)
+
+
+
