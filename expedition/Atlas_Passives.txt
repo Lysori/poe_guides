@@ -82,6 +82,8 @@ Region für: Delirium
 4. The singular eternity
 5. Greater Forces
 
+Alternative anstatt Delirium Nodes: Abyss Nodes -> vor allem +3 monster level in Abyssal Deths
+
 ###############
 # Lex Proxima #
 ###############

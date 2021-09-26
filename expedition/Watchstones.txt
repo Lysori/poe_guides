@@ -1,0 +1,19 @@
+Welche Watchstones nehme ich wo?
+
+1. Valdo's Rest
+
+wird von mir zum Farmen von Harbingern genutzt, daher eignen sich hier watchstones mit folgenden Mods:
+
+Platinum Watchstone
+- Areas have a x% chance to contain an additional Harbinger
+- Harbingers in Areas have 9% Chance to drop an additional stack of Currency shards
+
+zusatz Mods:
+da ich mich auf essencen und influenced item Farming spezialisiert habe
+- Unique Bosses have x% Chance to drop an additional essence
+
+Titanium Watchstone
+- Unique Bosses have x% Chance to drop an additional Item with random Influence
+- Randomly encountered Masters in Areas habe x% Chance to be Zana, Master Missions From Completing Maps have x% Chance to be Zana
+
+To Be continued...

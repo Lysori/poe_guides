@@ -20,9 +20,13 @@ Zum funktionieren des Builds sind die folgenden Gear-Upgrade-Empfehlungen aber N
 
 3. Divergent Presicion (qual 20%) -> bisschen mehr Damage
 
-4. Forbidden Rite als lvl 21, qual 23% gem
+4. Forbidden Rite / oder Anomalous Forbitten Rite als lvl 21, qual 23% gem
 
 5. Viridis Veil mit Enchant: 40% increased damage für Forbidden Rite
+
+6. Jewel: Rain of Splinters -> eines mit 30-34% reduced Totem damage nehmen
+
+7. Jewel: Self-Flagellation -> eines mit 20% increased Damage per Curse nehmen
 
 
 #teuer (1.5 - 10 Ex):
@@ -38,6 +42,23 @@ entweder kaufen oder per vial of consequence im Tempel im Tier III room of sacri
 #sehr teuer / unbezahlbar (>> 10 Ex)
 
 1. Awakened Greater Multiple Projectiles Gem (ersetzt Greater Volley Support)
+
+***************
+* Anmerkungen *
+***************
+
+Am besten funktionieren die oben genannten Jewels in Kombi mit dem Belt Cowards Legacy Chain Belt
+ohne Belt: Rain of Splinters nehmen
+
+ABER: bei lvl 94-95 müsste dafür Aliira ge-respecct werden zugunsten der zusätzlichen Jewel-Sockets
+auf Resi-Cap und Defense Layers achten
+
+weitere Nodes die zugunsten der Jewel Sockets ge-respecct werden können: Coldhearted Calculation und Crit Strike Chance
+(ganz rechts im tree)
+
+weitere Variante um die Defensive zu stärken: Stone Golem statt Lightning Golem -> mehr life regen
+
+
 
 
 
