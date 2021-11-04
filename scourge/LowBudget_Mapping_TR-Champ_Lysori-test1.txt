@@ -1,0 +1,40 @@
+Experimentierphase ab lvl 90:
+
+1. Quiver:
+- Maloney's Mechanism Ornate Quiver
+
+2. Cluster Jewel
+Medium Cluster Jewel, 12% increased Chaos DoT mit 4 passives und folgenden Nodes:
+- Wicked Pall für 30% increased Chaos Damage
+- Eldritch Inspiration für 20% increased Chaos Damage, 20% increased Mana Regen, 16% increased max mana
+
+als Temporär Setup (später 8-passives-Large Cluster Jewel mit Unholy Grace, Wicked Pall und Touch of Cruelty als Key Nodes)
+
+3. Skill Tree
+- Life-respec zu gunsten Cluster-Jewel Setup -> aktuell läuft Build auf 4.4 k life
+- Bow Mastery: hier noch 20% increased Area Damage zusätzlich genommen
+- Flask Mastery: gain 1 charge every 3 seconds für life und mana flasks
+
+4. Gems:
+- Vitality komplett gedroppt
+- Dafür low-lvl Clarity genommen wegen Mana Sustain (max. lvl 3-4)
+- 5 L Bow Setup: Toxic Rain - Efficacy - Void Manipulation - Faster Attacks - Vicious Projectiles (war: Mirage Archer)
+- 5 L für Ballista Totem Setup: Toxic Rain - Ballista Totem - Multiple Totems - Withering Touch - Focused Ballista Support
+- 3 L Setup im Quiver: Frenzy - Hextouch Support - Despair -> Auto Trigger Despair
+- Despair trotzdem auch noch als "manueller" Curse im Gem Setup enthalten
+
+aktive Auren: Defiance Banner, Malevolence, Grace, Clarity
+
+5. Pantheon
+minor god: wechsel zwischen Soul of Ralakesh und Soul of Abberath -> Build hat signifikante Schwäche gegen burning und ignite ailments sowie corrupted blood debuff!
+
+
+Aktuelle Schwachstellen / Optimierungsbedarf:
+
+** Damage -> Gems mal alle auf 20/20, Bow mit +3 to Chaos gems / bow gems..., Empower...
+** ignite -> Bosse mit burning / ignite ziehen ordentlich life runter trotz flasks
+** corrupted Blood -> hier muss dringend ein base jewel her mit "corrupted blood cannot be inflicted on you"
+** Mana Sustain -> mit Clarity bisschen aufgefangen, aber immer noch sub-optimal
+
+aktueller Build Stand 04.11.21:
+https://pastebin.com/aEvGdnTW
