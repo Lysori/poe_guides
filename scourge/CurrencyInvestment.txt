@@ -1,13 +1,18 @@
 Übersicht was und wie viel ausgegeben wurde
 
-
+Temporär Gear:
 Mapping Gear: ca. 50 C
-
-Large Cluster jewel: 1.5 Ex
-Empower: 1 Ex
-6-L Bow: 20
-Medium Cluster Projectile Damage: 1 Ex
+6-L Bow: 20 C
 Medium Cluster Chaos DoT: 30 C
-Body Armour Endgame 1: 10 C
+Body Armour 1: 10 C
+Body Armour 2: 20 C
+
+Ausgaben fürs Endgame Setup:
+Endgame Large Cluster jewel: 1.5 Ex
+Empower: 1 Ex
+Endgame Medium Cluster Projectile Damage 1: 1 Ex
 Quiver: 1 Ex
 Replica Conqueror's Efficiency Jewel 24 C
+Endgame Medium Cluster Projectile Damage 2: 40 C
+Hunter Short Bow für Endgame: 2 Ex
+Crafting: 8 Ex
