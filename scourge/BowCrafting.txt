@@ -1,0 +1,28 @@
+How-To:
+
+wichtig zu wissen:
+Crafting Bench: Cannot roll attack modifers: 1 Ex und Can have up to 3 modifiers: 2 Ex); letzteres wird 2x benötigt!
+Orb of Annulment: entfernt einen random mod bei einem rare item, d.h. nach möglichkeit sollten nur 2 drauf sein um chancen zu erhöhen!
+Hunter-Influence: Wichtig um die richtigen modifiers zu bekommen
+
+Crafting Anleitung:
+1. hunter influenced thicket bow mindestens lvl 82 als Base
+2. mindestens 20% quality
+3. Transmutes + Alts bis -> tier 1 DoT Multi oder Attack Speed als alleiniger Modifier
+4. Regal & annulment orb, bis der mod aus punkt 3. als einziger stat auf rare bow verbleibt
+5. craft: "Can have up to 3 modifiers"
+6. craft: "cannot Roll attack modifiers"
+7. 2 Ex drauf werfen für + 1 lvl socketed gem + chaos DoT multi (leo betrayal empfohlen)
+8. gecraftete mods entfernen
+9. Craft: "can have up to 3 modifiers"
+10. Craft: Chaos Dot Multi
+11. Craft: + 2 lvl of socketed support gems (freischalten durch unveil weapon / shield von catarina)
+
+Laut Craft of Exile:
+335 C (+5 Ex durch Crafting Bench: Cannot roll attack modifers: 1 Ex und Can have up to 3 modifiers: 2 Ex); letzteres wird 2x benötigt!
+
+Test 1 aka Realität aka RNG-hasst-mich:
+1. hunter thicket bow, lvl 86, 29% quality -> Base 2 Ex!!!
+2. Alteration Party... ca. 350 Alts benötigt um entweder DoT Multi oder Attack Speed (mind. Tier 2) als alleinigen mod zu bekommen!
+3. Orb of Annulment: 5 benötigt bis es endlich geklappt hat und der richtige mod entfernt wurde
+4. Regal Orbs: 5
