@@ -5,6 +5,7 @@ Crafting Bench: Cannot roll attack modifers: 1 Ex und Can have up to 3 modifiers
 Orb of Annulment: entfernt einen random mod bei einem rare item, d.h. nach möglichkeit sollten nur 2 drauf sein um chancen zu erhöhen!
 Hunter-Influence: Wichtig um die richtigen modifiers zu bekommen
 
+****************************************************************************************************
 Crafting Anleitung:
 1. hunter influenced thicket bow mindestens lvl 82 als Base
 2. mindestens 20% quality
@@ -18,11 +19,28 @@ Crafting Anleitung:
 10. Craft: Chaos Dot Multi
 11. Craft: + 2 lvl of socketed support gems (freischalten durch unveil weapon / shield von catarina)
 
+<QUELLE>: Unbedingt ergänzen!
+****************************************************************************************************
+
+**Planung**
 Laut Craft of Exile:
 335 C (+5 Ex durch Crafting Bench: Cannot roll attack modifers: 1 Ex und Can have up to 3 modifiers: 2 Ex); letzteres wird 2x benötigt!
 
-Test 1 aka Realität aka RNG-hasst-mich:
-1. hunter thicket bow, lvl 86, 29% quality -> Base 2 Ex!!!
-2. Alteration Party... ca. 350 Alts benötigt um entweder DoT Multi oder Attack Speed (mind. Tier 2) als alleinigen mod zu bekommen!
-3. Orb of Annulment: 5 benötigt bis es endlich geklappt hat und der richtige mod entfernt wurde
-4. Regal Orbs: 5
+----------
+- Test 1 -
+----------
+
+Erster eigener Bow gecraftet... aka Realität aka RNG-hasst-mich:
+Base:
+- hunter thicket bow, lvl 86, 29% quality; Kosten: 2 Ex!!!
+
+Crafting:
+- Alteration Party... ca. 400 Alts benötigt um entweder DoT Multi oder Attack Speed (mind. Tier 2) als alleinigen mod zu bekommen! 
+Ich habe mich dann für DoT Multi tier 2 entschieden, nachdem so viele Massen an alts benötigt wurden
+- Regal Orbs: 5
+- Orb of Annulment: 5 benötigt bis es endlich geklappt hat und der richtige mod entfernt wurde (daher auch die vielen Alts)
+- Craft: Can have up to 3 modifiers 2 Ex
+- Craft: Cannot Roll attack modifiers 1 Ex
+- Betrayal: Leo in Research auf Rank 3 und Safehouse spielen: gibt die Möglichkeit 1 Ex auf ein Item anzuwenden -> Chaos DoT Multi aufgecraftet
+- 1 Ex drauf für + 1 lvl socketed gem
+
