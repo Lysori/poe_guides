@@ -16,3 +16,15 @@ Replica Conqueror's Efficiency Jewel 24 C
 Endgame Medium Cluster Projectile Damage 2: 40 C
 Hunter Short Bow für Endgame: 2 Ex
 Crafting: 8 Ex
+Belt: 45 C
+Gloves: 30 C
+
+Watchstones
+
+- Haewark: 30 C
+- Haewark: 20 C
+
+Maps:
+
+- Eradicator: 17 C
+- Vaal Temple 1: 14 C

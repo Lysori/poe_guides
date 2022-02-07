@@ -43,7 +43,12 @@ Ich habe mich dann für DoT Multi tier 2 entschieden, nachdem so viele Massen an
 - Craft: Cannot Roll attack modifiers 1 Ex
 - Betrayal: Leo in Research auf Rank 3 und Safehouse spielen: gibt die Möglichkeit 1 Ex auf ein Item anzuwenden -> Chaos DoT Multi aufgecraftet
 - 1 Ex drauf für + 1 lvl socketed gem
+- Craft: 1 Orb of Scourge: alle mods weg
+- Craft: Can have up to 3 modifiers 2 Ex
+- Craft: + 2 lvl supported gems 2 Ex
+- Craft: tier 3 increased attack speed 1 Ex
 
-d.h. alle suffixe sind jetzt aufgecraftet
+Summe = 13 Ex
+
 
 

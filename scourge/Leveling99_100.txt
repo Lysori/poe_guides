@@ -1,0 +1,32 @@
+lvl-xp % pro map von 98 -> 99 (ohne watchstone modifier)
+
+lvl 99 bei 3.932.818.530
+
+1.  1.199.237 (7% increased pack size, tier 16 magic) fields
+2.  1.426.382 (30% more magic, tier 14 rare) sunken city
+3.  1.113.530 (35% increased pack size, tier 14 rare) dunes
+4.  1.040.769 (38% more magic, 24% increased pack size, tier 16 rare) fields
+5.  1.154.300 (12% increased pack size, tier 16 magic) crimson temple
+6.  1.167.790 (12% increased pack size, tier 15 rare, abyss) park
+7.   755.970 (30% more rare, 35% increased pack size, tier 16 rare) dunes
+8.   863.460 (38% increased pack size, tier 14 rare) strand
+9.  1.017.443 (11% increased pack size, tier 15 magic) temple
+10. 1.114.557 (35% increased pack size, tier 15 rare) vault
+11. 1.022.729 (11% increased pack size, tier 15 magic) dungeon
+12. 1.026.252 (25% increased pack size, 26 more rare, tier 14 rare) shore
+13.  901.072 (25% increased pack size, tier 14 rare) vault
+14. 1.804.242(24% increased pack size, tier 14 rare) arid lake, ABER: Ritual + Delirium + Blight
+15. 1.822.648(24% increased pack size, tier 15 rare) bone crypt, alva
+16. 1.192.150(25% increased pack size, tier 14 rare) bone crypt
+17.  739.148 (26% increased pack size, tier 14 rare)spider lair
+18. 1.021.827(32% increased pack size, 34% more rare, tier 15 rare) plateau
+19. 1.107.549(20% increased pack size, tier 15 rare) moon temple
+20. 1.499.777(26% increased pack size, 28% more magic, tier 16 rare) alleyways
+21. 1.191.755(12% increased pack size, tier 16 magic) haunted mansion
+22. 1.126.343 3.722.484.139(26% increased pack size tier 14 rare)chateau
+
+Durchschnitt Gain /map = 1.096.235 xp
+
+stand xp 05.01.22, 20:33: 3.724.574.147
+
+208.244.383 xp to go, d.h. noch 190 maps
