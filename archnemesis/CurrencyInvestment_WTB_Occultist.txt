@@ -1,5 +1,19 @@
 Leveling-Gear:
 
--Vaal Regalia 5 L Body Armour: 5 C
--Rime Gaze 4 L: 2 C
--Belt: 3 C
+- Vaal Regalia 5 L Body Armour: 5 C
+- Rime Gaze 4 L: 2 C
+- Belt: 3 C
+- gloves: 1C
+- boots: 1C
+- shield: 1C
+- Amulet: 6C
+
+CI Setup
+- body armour 6 L Vaal Regalia 3 Ex
+- Aegis Aurora Shield 2 Ex
+- Two-toned boots 9 C
+- Ring 10 C
+- Accumulator Wand 30 C
+- Apothecarys gloves 15 C
+- Apothecarys gloves nr. 2 10 C
+- Crystal Belt 22 C
