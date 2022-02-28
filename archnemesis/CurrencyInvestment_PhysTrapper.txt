@@ -14,3 +14,6 @@ Endgame Setup:
 - Deerstalker Boots + echant 1 Ex
 - seismic trap lvl 21 20 C
 - Gloves 25 C
+- Bodyarmour: 2.4 Ex
+- Amulett 1.4 Ex
+- 3x silver oil für amulett anoint: 45 C
